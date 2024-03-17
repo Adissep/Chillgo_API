@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">ChillGoApp Auth</string>
+    <string name="chill_go_app">ChillGo App</string>
+    <string name="setup_your_account">Set up your account</string>
+    <string name="log_in_to_your_setup_account">Log in to your Set up your account</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="first_name">First Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="hide_password">Hide Password</string>
+    <string name="show_password">Show Password\n</string>
+    <string name="terms_conditions">By continuing you accept our Privacy Policy and Term of Use</string>
+    <string name="terms_conditions_header">Term of Use</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="register">Register</string>
+    <string name="or_better_yet">" Or better yet "</string>
+    <string name="go_to_login_page">Already have an account? Login</string>
+    <string name="forgot_password">Forgot your password?</string>
+    <string name="reset_password">Reset your password</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_cart">Keranjang</string>
+    <string name="menu_profile">Profile</string>
+    <string name="required_point">Rp %d</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </string>
+    <string name="back">Back</string>
+    <string name="subject_ticket">Reservasi/Booking Wisata</string>
+    <string name="share_message">Hallo Admin, Saya ingin reservasi/booking untuk %1$d tiket dengan total Rp. %2$d. Apakah tersedia?</string>
+
+    <string name="placeholder_search">Cari kebutuhanmu disini!</string>
+    <string name="top_rating">Top High Rating</string>
+    <string name="list_favorite_menu">Daftar Favorit Anda</string>
+    <string name="top_place">Top Place Recommendation</string>
+    <string name="last_one_you_visited">Last one you visited</string>
+
+    <string name="continue_google">Continue with Google</string>
+    <string name="continue_facebook">Continue with Facebook</string>
+    <string name="location">Lokasi user</string>
+    <string name="more">More</string>
+    <string name="by_city">Based on City</string>
+    <string name="favorite">Favorites</string>
+    <string name="last_visit">Terakhir yang anda kunjungi</string>
+    <string name="review_history">Review History</string>
+    <string name="fav_is_empty">Favorite is empty!</string>
+    
+    <string name="name_msme">Name of MSME</string>
+    <string name="address">Address</string>
+    <string name="ratings">Ratings</string>
+    <string name="number_phone">Phone Number</string>
+    <string name="description">Description</string>
+    <string name="category">Category</string>
+    <string name="product_price">Price Rate</string>
+    <string name="schedule_ops">Schedule Operational</string>
+    <string name="submit">Submit</string>
+    <string name="msme_submission">MSME Submission</string>
+    <string name="data_of_your_msme">Data of your MSME</string>
+
+</resources>
+

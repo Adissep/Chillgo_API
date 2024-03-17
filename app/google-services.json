@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "561174390663",
+    "project_id": "chillgoapp",
+    "storage_bucket": "chillgoapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561174390663:android:8d0bd01efdf941cc251522",
+        "android_client_info": {
+          "package_name": "com.capstone.chillgoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkSP-0w3IngcbaJ2KtAKeol0y_dRUrPw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
