@@ -33,8 +33,8 @@ import javax.inject.Singleton
 object ChillGoAppModule {
     @Provides
     internal fun providesPlacesSource(): PlaceDataSource =
-        //AppData.placesDataSource("myappcc-qugap3elba-et.a.run.app/api") //Gunakan BuildConfig agar tidak terekspose
-        AppData.placesDataSource("7524-2001-448a-3053-25ac-6d96-db1e-dc57-b08c.ngrok-free.app/api")
+        //AppData.placesDataSource("myappcc-qugap3elba-et.a.run.app/api") //Gunakan BuildConfig agar tidak terekspose //sudah direvoke
+        AppData.placesDataSource("3fe6-2001-448a-3053-25ac-c130-10dd-5914-ae69.ngrok-free.app//api")
     @Provides
     internal fun provideDispatcherProvider(): DispatcherProvider = DefaultDispatcherProvider()
 
@@ -44,7 +44,7 @@ object ChillGoAppModule {
 
     @Provides
     internal fun providesRecommendationSource(): RecommendationSource =
-        AppData.recommendationDataSource("myappml-qugap3elba-et.a.run.app")
+        AppData.recommendationDataSource("myappml-qugap3elba-et.a.run.app") //sudah direvoke
 
     @Provides
     internal fun providesPlaceRepository(
