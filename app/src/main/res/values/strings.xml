@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">ChillGoApp Auth</string>
+    <string name="app_name">ChillGoApp</string>
     <string name="chill_go_app">ChillGo App</string>
     <string name="setup_your_account">Set up your account</string>
     <string name="log_in_to_your_setup_account">Log in to your Set up your account</string>

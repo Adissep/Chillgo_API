@@ -226,13 +226,17 @@ fun HomeCity(
     navigateToMore: (city: String) -> Unit
 ) {
     val cityImages = mapOf(
-        "Bandung" to R.drawable.bandung,
-        "Jakarta" to R.drawable.jakarta,
-        "Sukabumi" to R.drawable.sukabumi,
         "Bogor" to R.drawable.bogor,
-        "Yogyakarta" to R.drawable.yogyakarta,
-        "Semarang" to R.drawable.semarang,
-        "Surabaya" to R.drawable.surabaya
+        "Sukabumi" to R.drawable.sukabumi,
+        "Cianjur" to R.drawable.cianjur,
+        "Bandung" to R.drawable.bandung,
+        "Banten" to R.drawable.banten,
+        "Bekasi" to R.drawable.bekasi,
+        "Karawang" to R.drawable.karawang,
+        "Garut" to R.drawable.garut,
+        "-" to R.drawable.garut,
+
+
     )
     LazyRow(
         contentPadding = PaddingValues(16.dp),
